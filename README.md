@@ -15,7 +15,7 @@ Every addon is shared on its invididual license.
 
 Name | Description | Author | Help | License
 --- | --- | --- | --- | ---
-\- |
+[Addon Log](kOS/addons/addon_log.ks) | Logs all registered addons to file. | [Noiredd](https://github.com/Noiredd) | [link](docs/addon_log.md) | [MIT](licenses/addon_log.txt)
 
 ### Creating addons
 Head over to the main PEGAS repository for [documentation](https://github.com/Noiredd/PEGAS/docs/addons.md) on the addons system.
