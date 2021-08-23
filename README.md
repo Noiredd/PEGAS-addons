@@ -16,6 +16,7 @@ Every addon is shared on its invididual license.
 Name | Description | Author | Help | License
 --- | --- | --- | --- | ---
 [Addon Log](kOS/addons/addon_log.ks) | Logs all registered addons to file. | [Noiredd](https://github.com/Noiredd) | [link](docs/addon_log.md) | [MIT](licenses/addon_log.txt)
+[KAC Launch Alarm](kOS/addons/KAC_launch_alarm.ks) | Creates launch alarms with KAC mod. | [Patrykz94](https://github.com/Patrykz94) | [link](docs/KAC_launch_alarm.md) | [MIT](licenses/KAC_launch_alarm.txt)
 
 ### Creating addons
 Head over to the main PEGAS repository for [documentation](https://github.com/Noiredd/PEGAS/blob/master/docs/addons.md) on the addons system.
