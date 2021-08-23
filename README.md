@@ -1,5 +1,5 @@
 # PEGAS addons library
-Here you can find user-made addons for PEGAS, or share your own!
+Here you can find user-made addons for [PEGAS](https://github.com/Noiredd/PEGAS), or share your own!
 
 Addons are a great tool to "hack" PEGAS to make it do something you want without the need to modify its own code
 (or wait for me to implement a feature that you happen to need).
@@ -18,7 +18,7 @@ Name | Description | Author | Help | License
 [Addon Log](kOS/addons/addon_log.ks) | Logs all registered addons to file. | [Noiredd](https://github.com/Noiredd) | [link](docs/addon_log.md) | [MIT](licenses/addon_log.txt)
 
 ### Creating addons
-Head over to the main PEGAS repository for [documentation](https://github.com/Noiredd/PEGAS/docs/addons.md) on the addons system.
+Head over to the main PEGAS repository for [documentation](https://github.com/Noiredd/PEGAS/blob/master/docs/addons.md) on the addons system.
 
 ### Contributing
 So you want to share your addon? Great!
